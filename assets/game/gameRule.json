@@ -7,7 +7,7 @@
             {"seq":"2", "data":"Only hit with player racket will accellerate the paddle."},
             {"seq":"3", "data":"Player able to pocket the paaddle in opponent side, will get one point. And if opponent pocket this in self, again player will get a point. "},
             {"seq":"4", "data":"If player did not respond with his turn the paddle interruption did not happen and user is not able to see accurate state of paddle."},
-            {"seq":"5", "data":"A 7 point score will declare the winner. Winner will be eligible to get refund of there entry amount ( Depending on the Law of the state ). And if one player left the table at any case the second will be declared as winner."},
+            {"seq":"5", "data":"A 7 point score will declare the winner. Winner will be eligible to get refund of there entry amount. And if one player left the table at any case the second will be declared as winner."},
             {"seq":"6", "data":"At any stage management decision will be the final, and both player have to fallow that decision."}
         ]
     },
@@ -23,7 +23,7 @@
             {"seq":"6", "data":"A king is in check when an opponent's piece is in a position that can attack the king. A player must move their king out of check, block the check or capture the attacking piece. A player cannot move their king into check."},
             {"seq":"7", "data":"Putting an opponent's king in checkmate is the only way to win the game. A king is in checkmate if it is in check, the opponent's piece that has the king in check cannot be captured, the check cannot be blocked, and the king cannot move to a square that is not under attack."},
             {"seq":"8", "data":"A Stalemate is a tie. It is achieved if there are no legal moves for a player to make. "},
-            {"seq":"9", "data":"Winner will be eligible to get refund of there entry amount ( Depending on the Law of the state ). No One is a winner for tie/sattlement case. And if one player left the table at any case the second will be declared as winner."},
+            {"seq":"9", "data":"Winner will be eligible to get refund of there entry amount. No One is a winner for tie/sattlement case. And if one player left the table at any case the second will be declared as winner."},
             {"seq":"10", "data":"At any stage management decision will be the final, and both player have to fallow that decision."}
         ]
     }
